@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm Kenneth and I'm trying to learn new stuffs. This is a good step in the right direction.
 
+Hopefully...
 <!--
 **KennethCastillano/KennethCastillano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
